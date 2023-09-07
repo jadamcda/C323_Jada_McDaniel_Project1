@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.C323_Jada_McDaniel_Project1" parent="Theme.AppCompat">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blurple</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+    </style>
+
+    <style name="Theme.C323_Jada_McDaniel_Project1" parent="Base.Theme.C323_Jada_McDaniel_Project1" />
+</resources>
